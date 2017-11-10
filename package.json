@@ -1,0 +1,19 @@
+{
+  "name": "mvp",
+  "version": "1.0.0",
+  "description": "Filter and display most urgent Donors Choose projects in an area.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aploftus/hrsf84-mvp.git"
+  },
+  "author": "aploftus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aploftus/hrsf84-mvp/issues"
+  },
+  "homepage": "https://github.com/aploftus/hrsf84-mvp#readme"
+}
