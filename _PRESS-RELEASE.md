@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Donors Choose Most Urgent Products
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > Connecting teachers' time-sensitive projects with donors eager to give
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Donors Choose, a crowd-funding platform specifically for teachers, has touched millions of students and classrooms. Too often, though, teachers' projects are not funded because they become hidden in the search listings. This technology aims to increase visibility of urgent projects by filtering those projects expiring soonest, and providing a map visual interface to allow donors to better see where their contributions are going.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Donors Choose projects are challenging to pick from, and thus expire before they receive the funding they need.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > Filter and display those projects with upcoming and urgent end dates.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > "Access is a key part of action."
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Just type a location into the search bar to view urgent projects in your area!
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > "I could quickly see which projects needed funding in my neighborhood, and I was thrilled to be able to fund a project on its last day!""
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
