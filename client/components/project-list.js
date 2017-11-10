@@ -30,7 +30,7 @@ angular.module('donorsApp')
   template:
     '<div>' +
       '<h2>Projects List Component</h2>' +
-      // '<p>School: {{ $ctrl.school.name }}</p>' +
+      '<div>Total projects: {{$ctrl.projects.length}}</div>' +
       '<div class="table">' +
         '<div class="table-head">' +
           '<span class="cell header">Project Name</span>' +
