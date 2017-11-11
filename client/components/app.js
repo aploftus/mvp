@@ -26,6 +26,6 @@ angular.module('donorsApp')
       }
     ];
   },
-  templateUrl: '/templates/app.html',
+  templateUrl: './templates/app.html',
 })
 
