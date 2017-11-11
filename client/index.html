@@ -1,17 +1,17 @@
-<html ng-app="donorsApp">
+<html>
   <head>
     <link href="style.css" rel="stylesheet">
 
     <script src="bower_components/angular/angular.js"></script>
+    
     <script src="index.js"></script>
     <script src="components/search.js"></script>
-    <script src="components/project-list.js"></script>
     <script src="components/project-list-entry.js"></script>
+    <script src="components/project-list.js"></script>
   </head>
-  <body>
+  <body ng-app="donorsApp">
     <h1>Donors Choose Urgent Projects</h1>
     <search></search>
-    <project-list></project-list>
-
+    <project-list projects="$ctrl.projects"></project-list>
   </body>
 </html>

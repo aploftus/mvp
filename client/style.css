@@ -2,7 +2,8 @@ body {
   font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 
-.cell {
+/*.cell {
   border: solid black 1px;
   padding: 5px;
-}
+  width: 30px;
+}*/
