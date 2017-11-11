@@ -4,14 +4,16 @@
 
     <script src="../node_modules/angular/angular.js"></script>
     
-    <script src="index.js"></script>
-    <script src="components/search.js"></script>
-    <script src="components/project-list-entry.js"></script>
-    <script src="components/project-list.js"></script>
   </head>
-  <body ng-app="donorsApp">
-    <h1>Donors Choose Urgent Projects</h1>
-    <search></search>
-    <project-list projects="$ctrl.projects"></project-list>
+  <body>
+    <div ng-app="donorsApp">
+      <app></app>
+    </div>
+
+    <script src="index.js"></script>
+    <script src="components/app.js"></script>
+    <script src="components/search.js"></script>
+    <script src="components/project-list.js"></script>
+    <script src="components/project-list-entry.js"></script>
   </body>
 </html>

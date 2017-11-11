@@ -4,6 +4,6 @@ angular.module('donorsApp')
   controller: function() {
   },
 
-  templateUrl: 'templates/search.html',
+  templateUrl: '/templates/search.html',
 
 });

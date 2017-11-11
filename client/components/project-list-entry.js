@@ -9,6 +9,6 @@ angular.module('donorsApp')
 
   },
 
-  templateUrl: 'templates/project-list-entry.html',
+  templateUrl: '/templates/project-list-entry.html',
 
 });
