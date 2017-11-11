@@ -28,13 +28,6 @@ angular.module('donorsApp')
     ];
   },
 
-  template:
-    '<div>' +
-      '<h2>Projects List Component</h2>' +
-      '<div>Total projects: {{$ctrl.projects.length}}</div>' +
-      '<div class="project-list">' +
-        '<project-list-entry ng-repeat="project in $ctrl.projects" project="project"></project-list-entry>' +
-      '</div>' +
-    '</div>',
+  templateUrl: 'templates/project-list.html',
 
 });
